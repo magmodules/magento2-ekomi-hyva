@@ -1,5 +1,5 @@
 
-![image](https://github.com/magmodules/magento2-ekomi-hyva/assets/24823946/7e8e6a5c-ce6f-44e7-ada2-cb1c27a95e10)
+![magento-ekomi-hyva](https://github.com/magmodules/magento2-ekomi-hyva/assets/24823946/fd032efb-ef7c-4f6c-9e7c-f3fa6e7ffed0)
 
 # Ekomi Hyvä Compatibility plugin
 
@@ -11,7 +11,7 @@ The Ekomi Compatibility plugin for the Magento Hyva theme has the following requ
 - [Hyvä](https://github.com/hyva-themes)
 - [Magmodules Ekomi Reviews](https://www.magmodules.eu/magento2-ekomi-reviews.html)    
 
-<img width="1078" alt="Hyva-ekomi-magento-plugin" src="https://github.com/magmodules/magento2-ekomi-hyva-dev/assets/24823946/844e4615-d7f5-440a-aa0e-64a3597b12ef">
+<img width="1078" alt="Hyva-ekomi-magento-plugin" src="https://github.com/magmodules/magento2-ekomi-hyva/assets/24823946/3efe207f-27b7-48e2-9d40-4cc1dd4390a4">
 
 
 ## About the Ekomi Plugin
